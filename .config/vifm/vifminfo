@@ -30,60 +30,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/linux/.config
-	polybar
-27
-d/home/linux
-	.config
-3
-d/home
-	linux
-1
-d/
-	home
-6
-d/home
-	linux
-1
-d/home/linux
-	polybar
-27
-d/home/linux/polybar
-	.travis.yml
-17
-d/home/linux
-	.config
-3
-d/home/linux/.config
-	polybar
-27
-d/home/linux/.config/polybar
-	Files
-1
-d/home/linux/.config/polybar/Files
-	ytdl
-8
-d/home/linux/.config/polybar
-	config
-1
-d/home/linux/.config
-	polybar
-27
-d/home/linux/.config/polybar
-	config
-1
-d/home/linux/.config
-	polybar
-27
-d/home/linux/.config/polybar
-	config
-1
-d/home/linux/.config
-	polybar
-27
-d/home/linux
-	polybar
-23
 d/home/linux/polybar
 	cmake
 3
@@ -328,6 +274,60 @@ d/home
 	linux
 1
 d/home/linux
+	Desktop
+27
+d/home/linux/Desktop
+	Files
+1
+d/home/linux/Desktop/Files
+	mydotfiles
+11
+d/home/linux/Desktop/Files/mydotfiles
+	.config
+1
+d/home/linux/Desktop/Files/mydotfiles/.config
+	..
+0
+d/home/linux/Desktop/Files/mydotfiles
+	pictures
+6
+d/home/linux/Desktop/Files/mydotfiles/pictures
+	pic-1.png
+1
+d/home/linux/Desktop/Files/mydotfiles
+	..
+0
+d/home/linux/Desktop/Files
+	mydotfiles
+11
+d/home/linux/Desktop/Files/mydotfiles
+	README.md
+5
+d/home/linux/Desktop/Files
+	mydotfiles
+11
+d/home/linux/Desktop/Files/mydotfiles
+	README.md
+5
+d/home/linux/Desktop/Files
+	miscfiles
+10
+d/home/linux/Desktop/Files/miscfiles
+	misc
+3
+d/home/linux/Desktop/Files/miscfiles/misc
+	..
+0
+d/home/linux/Desktop/Files/miscfiles
+	misc
+3
+d/home/linux/Desktop/Files
+	mycppfiles
+11
+d/home/linux/Desktop
+	Files
+1
+d/home/linux
 	README.md
 29
 d
@@ -489,6 +489,8 @@ D
 /sxhkd
 /pol
 /bspwm
+/Des
+/REA
 
 # Prompt history (oldest to newest):
 pinit.vim
@@ -501,7 +503,7 @@ prails
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/linux/.local/share/vifm/Trash/002_.git
+""/home/linux/.local/share/vifm/Trash/000_mydotfiles
 
 # Directory stack (oldest to newest):
 
@@ -726,6 +728,20 @@ t/home/linux/.local/share/vifm/Trash/000_.gitconfig
 	/home/linux/.gitconfig
 t/home/linux/.local/share/vifm/Trash/002_.git
 	/home/linux/.git
+t/home/linux/.local/share/vifm/Trash/000_.bashrc
+	/home/linux/Desktop/Files/mydotfiles/.bashrc
+t/home/linux/.local/share/vifm/Trash/000_.fzf.bash
+	/home/linux/Desktop/Files/mydotfiles/.fzf.bash
+t/home/linux/.local/share/vifm/Trash/000_.fzf.zsh
+	/home/linux/Desktop/Files/mydotfiles/.fzf.zsh
+t/home/linux/.local/share/vifm/Trash/000_.p10k.zsh
+	/home/linux/Desktop/Files/mydotfiles/.p10k.zsh
+t/home/linux/.local/share/vifm/Trash/000_.vscode
+	/home/linux/Desktop/Files/mydotfiles/.vscode
+t/home/linux/.local/share/vifm/Trash/000_.zshrc
+	/home/linux/Desktop/Files/mydotfiles/.zshrc
+t/home/linux/.local/share/vifm/Trash/000_mydotfiles
+	/home/linux/Desktop/Files/mydotfiles
 
 # State:
 f
