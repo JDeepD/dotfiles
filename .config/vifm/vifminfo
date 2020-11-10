@@ -14,9 +14,9 @@
 	core
 1604129300
 'v
-	/home/linux/Desktop/Python-4-Beginners/PythonSpecific
-	fibogen.py
-1603358400
+	/home/linux/.config/picom
+	picom.sample.conf
+1604992429
 
 # Bookmarks:
 
@@ -30,306 +30,306 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/linux/polybar
-	cmake
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
 3
-d/home/linux/polybar/cmake
-	common
-1
-d/home/linux/polybar/cmake/common
-	..
-0
-d/home/linux/polybar/cmake
-	common
-1
-d/home/linux/polybar
-	cmake
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/core
+	prompts.py
 3
-d/home/linux
-	Downloads
-27
-d/home
-	linux
-1
-d/
-	usr
-24
-d/usr
-	share
-11
-d/usr/share
-	doc
-27
-d/usr/share/doc
-	apport-symptoms
-23
-d/usr/share
-	doc
-27
-d/usr
-	sbin
-10
-d/
-	home
-6
-d/home
-	linux
-1
-d/home/linux
-	Downloads
-27
-d/home/linux/Downloads
-	polybar
-6
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads/polybar/polybar
-	LICENSE
-21
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads
-	polybar
-6
-d/home/linux
-	Downloads
-27
-d/home/linux/Downloads
-	polybar
-6
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads/polybar/polybar
-	src
-9
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads
-	highlight-3.58
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/core
+	prompts.py
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	gui
 4
-d/home/linux
-	.config
-3
-d/home/linux/.config
-	polybar
-27
-d/home/linux/.config/polybar
-	config
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/gui
+	form.py
 1
-d/home/linux/.config
-	polybar
-27
-d/home/linux/.config/polybar
-	launch.sh
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	gui
+4
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/gui
+	form.py
+1
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/core
+	prompts.py
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/core
+	prompts.py
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	gui
+4
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/gui
+	form.py
+1
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	gui
+4
+d/home/linux/Desktop/Files/RailwayMgmtSys
+	railsys
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	gui
+4
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/gui
+	form.py
+1
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	animations
 2
-d/home/linux/.config
-	obs-studio
-26
-d/home/linux/.config/obs-studio
-	..
-0
-d/home/linux/.config
-	bspwm
-4
-d/home/linux/.config/bspwm
-	bspwmrc
-1
-d/home/linux/.config
-	sxhkd
-27
-d/home/linux/.config/sxhkd
-	sxhkdrc
-1
-d/home/linux/.config
-	polybar
-22
-d/home/linux/.config/polybar
-	launch.sh
-2
-d/home/linux/.config
-	polybar
-22
-d/home/linux
-	.config
+d/home/linux/Desktop/Files/RailwayMgmtSys
+	railsys
 3
-d/home/linux/.config
-	bspwm
-4
-d/home/linux/.config/bspwm
-	bspwmrc
-1
-d/home/linux/.config
-	bspwm
-4
-d/home/linux
-	.fonts
-4
-d/home
-	linux
-1
-d/home/linux
-	Desktop
-26
-d/home/linux/Desktop
-	Files
-1
-d/home/linux/Desktop/Files
-	PersonalFiles
-4
-d/home/linux/Desktop/Files/PersonalFiles
-	..
-0
-d/home/linux/Desktop/Files
-	PersonalFiles
-4
-d/home/linux/Desktop/Files/PersonalFiles
-	GDrive_downloader
-1
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop/Files/PythonPrograms
-	School
-1
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop
-	Files
-1
-d/home/linux
-	tmp
-11
-d/home
-	linux
-1
-d/home/linux
-	.config
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
 3
-d/home/linux/.config
-	polybar
-26
-d/home/linux/.config/polybar
-	launch.sh
-2
-d/home/linux/.config
-	polybar
-26
-d/home/linux
-	Desktop
-26
-d/home/linux/Desktop
-	Files
-1
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop/Files/PythonPrograms
-	.xsessionrc
-2
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop
-	Files
-1
-d/home/linux
-	.fonts
-4
-d/home/linux/.fonts
-	..
-0
-d/home/linux
-	.config
+d/home/linux/Desktop/Files/RailwayMgmtSys
+	railsys
 3
-d/home/linux/.config
-	..
-0
-d/home/linux
-	.fonts
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys
+	railsys
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/core
+	prompts.py
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/core
+	fmgmt.py
+2
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys
+	railwin
 4
-d/home/linux/.fonts
-	..
-0
-d/home/linux
-	.fzf.zsh
+d/home/linux/Desktop/Files/RailwayMgmtSys/railwin
+	Scripts
+2
+d/home/linux/Desktop/Files/RailwayMgmtSys/railwin/Scripts
+	activate.bat
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railwin
+	Scripts
+2
+d/home/linux/Desktop/Files/RailwayMgmtSys
+	railsys
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys/core
+	prompts.py
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys/railsys
+	core
+3
+d/home/linux/Desktop/Files/RailwayMgmtSys
+	railsys
+3
+d/home/linux/Desktop/Files
+	RailwayMgmtSys
 7
-d/home
-	linux
+d/home/linux/Desktop
+	Files
+1
+d/home/linux/Desktop/Files
+	essentialvenv
+10
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	lib
+2
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	lib
+2
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	lib
+2
+d/home/linux/Desktop/Files/essentialvenv
+	windowsvenv
+3
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv
+	..
+0
+d/home/linux/Desktop/Files/essentialvenv
+	windowsvenv
+3
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv
+	Lib
+1
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib
+	site-packages
+1
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib/site-packages
+	mysqlx
+7
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib
+	site-packages
+1
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv
+	Lib
+1
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	bin
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/bin
+	python3
+16
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	lib
+2
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib
+	python3.9
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib/python3.9
+	site-packages
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib/python3.9/site-packages
+	mysql
+7
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib/python3.9
+	site-packages
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib
+	python3.9
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	lib
+2
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files
+	essentialvenv
+10
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files
+	essentialvenv
+10
+d/home/linux/Desktop
+	Files
 1
 d/home/linux
-	.lesshst
-25
-d/home
-	linux
+	picom
+23
+d/home/linux/picom
+	build
+7
+d/home/linux/picom/build
+	meson-info
+2
+d/home/linux/picom
+	build
+7
+d/home/linux/picom/build
+	meson-logs
+3
+d/home/linux/picom/build/meson-logs
+	meson-log.txt
 1
+d/home/linux/picom/build
+	meson-logs
+3
+d/home/linux/picom
+	picom.sample.conf
+31
 d/home/linux
-	.lesshst
-25
+	picom
+23
 d/home
 	linux
 1
 d/home/linux
 	Desktop
-27
+14
 d/home/linux/Desktop
 	Files
 1
 d/home/linux/Desktop/Files
-	mydotfiles
-11
-d/home/linux/Desktop/Files/mydotfiles
-	.config
-1
-d/home/linux/Desktop/Files/mydotfiles/.config
-	..
-0
-d/home/linux/Desktop/Files/mydotfiles
-	pictures
-6
-d/home/linux/Desktop/Files/mydotfiles/pictures
-	pic-1.png
-1
-d/home/linux/Desktop/Files/mydotfiles
-	..
-0
-d/home/linux/Desktop/Files
-	mydotfiles
-11
-d/home/linux/Desktop/Files/mydotfiles
-	README.md
-5
-d/home/linux/Desktop/Files
-	mydotfiles
-11
-d/home/linux/Desktop/Files/mydotfiles
-	README.md
-5
-d/home/linux/Desktop/Files
-	miscfiles
+	essentialvenv
 10
-d/home/linux/Desktop/Files/miscfiles
-	misc
-3
-d/home/linux/Desktop/Files/miscfiles/misc
-	..
-0
-d/home/linux/Desktop/Files/miscfiles
-	misc
-3
-d/home/linux/Desktop/Files
-	mycppfiles
-11
 d/home/linux/Desktop
 	Files
 1
 d/home/linux
-	README.md
-29
+	.config
+3
+d/home/linux/.config
+	picom
+27
+d/home/linux/.config/picom
+	picom.conf
+1
+d/home/linux/.config
+	picom
+27
+d/home/linux
+	.config
+3
+d/home
+	linux
+1
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	picom
+27
+d/home/linux/.config/picom
+	picom.conf
+1
+d/home/linux/.config
+	picom
+27
+d/home/linux/.config/picom
+	picom.conf
+1
+d/home/linux/.config
+	picom
+27
+d/home/linux
+	.config
+3
+d/home
+	linux
+1
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	.gitignore
+27
 d
 
 # Right window history (oldest to newest):
@@ -360,10 +360,6 @@ D/home/linux
 D
 
 # Command line history (oldest to newest):
-:colorscheme snowwhite
-:colorscheme zenburn
-:colorscheme monokai
-:colorscheme molokai
 :colorscheme mc-like
 :colorscheme semidarkdesert
 :colorscheme zenburn_1
@@ -434,7 +430,6 @@ D
 :touch distest.py
 :touch __init__.py
 :touch __main__.py
-:mkdir gui
 :mkdir util
 :touch ytdlgui.py
 :mkdir codewarscpp
@@ -446,7 +441,6 @@ D
 :mkdir sxhkd
 :touch sxhkdrc
 :touch .xsession
-:pwd
 :touch .xsessionrc
 :q
 :touch perma.txt
@@ -460,8 +454,15 @@ D
 :ZZ
 :wq
 :touch .gitignore
+:pwd
+:cd pwn
+:cd pwd
+:mkdir gui
+:touch form.py
+:mkdir picom
 
 # Search history (oldest to newest):
+/picom
 /pic-1
 /my
 /nv
@@ -491,6 +492,9 @@ D
 /bspwm
 /Des
 /REA
+/.conf
+/giti
+/git
 
 # Prompt history (oldest to newest):
 pinit.vim
@@ -499,11 +503,13 @@ p.xsessionrc
 pintro.py
 prailsys
 prails
+pRailwayMgmtSys
+ppicom.conf
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/linux/.local/share/vifm/Trash/000_mydotfiles
+""/home/linux/.local/share/vifm/Trash/000_picom.sample.conf
 
 # Directory stack (oldest to newest):
 
@@ -742,6 +748,22 @@ t/home/linux/.local/share/vifm/Trash/000_.zshrc
 	/home/linux/Desktop/Files/mydotfiles/.zshrc
 t/home/linux/.local/share/vifm/Trash/000_mydotfiles
 	/home/linux/Desktop/Files/mydotfiles
+t/home/linux/.local/share/vifm/Trash/001_hotelsys
+	/home/linux/Desktop/Files/hotelsys
+t/home/linux/.local/share/vifm/Trash/001_rails
+	/home/linux/Desktop/Files/RailwayMgmtSys/rails
+t/home/linux/.local/share/vifm/Trash/003_.git
+	/home/linux/Desktop/Files/RailwayMgmtSys/.git
+t/home/linux/.local/share/vifm/Trash/000_gui
+	/home/linux/Desktop/Files/RailwayMgmtSys/railsys/gui
+t/home/linux/.local/share/vifm/Trash/001_.gitignore
+	/home/linux/Desktop/Files/RailwayMgmtSys/rails/.gitignore
+t/home/linux/.local/share/vifm/Trash/000_essentialvenv
+	/home/linux/Desktop/Files/essentialvenv
+t/home/linux/.local/share/vifm/Trash/002_.gitignore
+	/home/linux/Desktop/Files/essentialvenv/linuxvenv/.gitignore
+t/home/linux/.local/share/vifm/Trash/000_picom.sample.conf
+	/home/linux/.config/picom/picom.sample.conf
 
 # State:
 f
