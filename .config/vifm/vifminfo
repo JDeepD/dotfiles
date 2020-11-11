@@ -30,45 +30,153 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/linux/polybar
-	cmake
-3
-d/home/linux/polybar/cmake
-	common
-1
-d/home/linux/polybar/cmake/common
+d/home/linux/.config
+	polybar
+33
+d/home/linux/.config/polybar
 	..
 0
-d/home/linux/polybar/cmake
-	common
+d/home/linux/.config
+	bspwm
+7
+d/home/linux/.config/bspwm
+	bspwmrc
 1
-d/home/linux/polybar
-	cmake
-3
+d/home/linux/.config
+	rofi
+37
+d/home/linux/.config/rofi
+	themes
+1
+d/home/linux/.config
+	rofi
+37
 d/home/linux
-	Downloads
+	Desktop
 27
+d/home/linux/Desktop
+	polybar-themes
+3
+d/home/linux/Desktop/polybar-themes
+	polybar-10
+12
+d/home/linux/Desktop
+	blue-sky
+2
+d/home/linux/Desktop/blue-sky
+	nord.rasi
+15
+d/home/linux/Desktop
+	blue-sky
+2
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	rofi
+37
+d/home/linux/.config/rofi
+	themes
+1
+d/home/linux/.config/rofi/themes
+	nord.rasi
+1
+d/home/linux/.config/rofi
+	themes
+1
+d/home/linux/.config
+	rofi
+37
+d/home/linux/.config/rofi
+	config
+2
+d/home/linux/.config
+	sxhkd
+39
+d/home/linux/.config/sxhkd
+	sxhkdrc
+1
+d/home/linux/.config
+	sxhkd
+38
+d/home/linux
+	Desktop
+27
+d/home/linux/Desktop
+	blue-sky
+2
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	polybar
+33
+d/home/linux/.config/polybar
+	config
+1
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	..
+0
+d/home/linux/.config
+	kdeconnect
+23
+d/home/linux
+	Desktop
+27
+d/home/linux/Desktop
+	blue-sky
+2
+d/home/linux/Desktop/blue-sky
+	picom
+6
+d/home/linux/Desktop/blue-sky/picom
+	picom.sample.conf
+32
+d/home/linux/Desktop/blue-sky
+	picom
+6
+d/home/linux/Desktop
+	blue-sky
+2
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	polybar
+33
+d/home/linux/.config/polybar
+	config
+1
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	gnome-session
+17
+d/home/linux
+	.gitconfig
+49
 d/home
 	linux
 1
-d/
-	usr
-24
-d/usr
-	share
-11
-d/usr/share
-	doc
-27
-d/usr/share/doc
-	apport-symptoms
-23
-d/usr/share
-	doc
-27
-d/usr
-	sbin
-10
 d/
 	home
 6
@@ -76,260 +184,152 @@ d/home
 	linux
 1
 d/home/linux
-	Downloads
-27
-d/home/linux/Downloads
-	polybar
-6
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads/polybar/polybar
-	LICENSE
-21
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads
-	polybar
-6
-d/home/linux
-	Downloads
-27
-d/home/linux/Downloads
-	polybar
-6
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads/polybar/polybar
-	src
-9
-d/home/linux/Downloads/polybar
-	polybar
-1
-d/home/linux/Downloads
-	highlight-3.58
-4
-d/home/linux
-	.config
-3
-d/home/linux/.config
-	polybar
-27
-d/home/linux/.config/polybar
-	config
-1
-d/home/linux/.config
-	polybar
-27
-d/home/linux/.config/polybar
-	launch.sh
-2
-d/home/linux/.config
-	obs-studio
-26
-d/home/linux/.config/obs-studio
-	..
-0
-d/home/linux/.config
-	bspwm
-4
-d/home/linux/.config/bspwm
-	bspwmrc
-1
-d/home/linux/.config
-	sxhkd
-27
-d/home/linux/.config/sxhkd
-	sxhkdrc
-1
-d/home/linux/.config
-	polybar
-22
-d/home/linux/.config/polybar
-	launch.sh
-2
-d/home/linux/.config
-	polybar
-22
-d/home/linux
-	.config
-3
-d/home/linux/.config
-	bspwm
-4
-d/home/linux/.config/bspwm
-	bspwmrc
-1
-d/home/linux/.config
-	bspwm
-4
-d/home/linux
-	.fonts
-4
-d/home
-	linux
-1
-d/home/linux
-	Desktop
-26
-d/home/linux/Desktop
-	Files
-1
-d/home/linux/Desktop/Files
-	PersonalFiles
-4
-d/home/linux/Desktop/Files/PersonalFiles
-	..
-0
-d/home/linux/Desktop/Files
-	PersonalFiles
-4
-d/home/linux/Desktop/Files/PersonalFiles
-	GDrive_downloader
-1
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop/Files/PythonPrograms
-	School
-1
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop
-	Files
-1
-d/home/linux
-	tmp
-11
-d/home
-	linux
-1
-d/home/linux
-	.config
-3
-d/home/linux/.config
-	polybar
-26
-d/home/linux/.config/polybar
-	launch.sh
-2
-d/home/linux/.config
-	polybar
-26
-d/home/linux
-	Desktop
-26
-d/home/linux/Desktop
-	Files
-1
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop/Files/PythonPrograms
-	.xsessionrc
-2
-d/home/linux/Desktop/Files
-	PythonPrograms
-6
-d/home/linux/Desktop
-	Files
-1
-d/home/linux
-	.fonts
-4
-d/home/linux/.fonts
-	..
-0
-d/home/linux
-	.config
-3
-d/home/linux/.config
-	..
-0
-d/home/linux
-	.fonts
-4
-d/home/linux/.fonts
-	..
-0
-d/home/linux
-	.fzf.zsh
+	picom
+36
+d/home/linux/picom
+	build
 7
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	picom
+32
+d/home/linux
+	picom
+36
+d/home/linux/picom
+	dbus-examples
+8
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	picom
+32
+d/home/linux/.config/picom
+	picom.sample.conf
+1
+d/home/linux/.config
+	alacritty
+3
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	vifm
+43
+d/home/linux/.config/vifm
+	.gitignore
+4
+d/home/linux/.config
+	vifm
+43
+d/home/linux/.config/vifm
+	.gitignore
+4
+d/home/linux/.config
+	vifm
+43
+d/home/linux
+	Public
+32
+d/home/linux/Public
+	..
+0
+d/home/linux
+	polybar
+36
 d/home
 	linux
 1
 d/home/linux
-	.lesshst
+	.gitignore
 25
 d/home
 	linux
 1
 d/home/linux
-	.lesshst
-25
-d/home
-	linux
+	Public
+13
+d/home/linux/Public
+	..
+0
+d/home/linux
+	Public
+13
+d/home/linux/Public
+	picom
 1
 d/home/linux
 	Desktop
-27
+8
 d/home/linux/Desktop
 	Files
 1
 d/home/linux/Desktop/Files
-	mydotfiles
-11
-d/home/linux/Desktop/Files/mydotfiles
-	.config
-1
-d/home/linux/Desktop/Files/mydotfiles/.config
-	..
-0
-d/home/linux/Desktop/Files/mydotfiles
-	pictures
-6
-d/home/linux/Desktop/Files/mydotfiles/pictures
-	pic-1.png
-1
-d/home/linux/Desktop/Files/mydotfiles
-	..
-0
+	PersonalFiles
+4
+d/home/linux/Desktop/Files/PersonalFiles
+	picom
+12
 d/home/linux/Desktop/Files
-	mydotfiles
-11
-d/home/linux/Desktop/Files/mydotfiles
-	README.md
-5
-d/home/linux/Desktop/Files
-	mydotfiles
-11
-d/home/linux/Desktop/Files/mydotfiles
-	README.md
-5
-d/home/linux/Desktop/Files
-	miscfiles
-10
-d/home/linux/Desktop/Files/miscfiles
-	misc
-3
-d/home/linux/Desktop/Files/miscfiles/misc
-	..
-0
-d/home/linux/Desktop/Files/miscfiles
-	misc
-3
-d/home/linux/Desktop/Files
-	mycppfiles
-11
+	PersonalFiles
+4
 d/home/linux/Desktop
 	Files
 1
 d/home/linux
-	README.md
-29
+	Desktop
+8
+d/home
+	linux
+1
+d/
+	home
+6
+d/home
+	linux
+1
+d/home/linux
+	Pictures
+12
+d/home/linux/Pictures
+	Wallpapers
+1
+d/home/linux
+	Public
+13
+d/home/linux/Public
+	..
+0
+d/home/linux
+	Templates
+14
 d
 
 # Right window history (oldest to newest):
@@ -360,10 +360,6 @@ D/home/linux
 D
 
 # Command line history (oldest to newest):
-:colorscheme snowwhite
-:colorscheme zenburn
-:colorscheme monokai
-:colorscheme molokai
 :colorscheme mc-like
 :colorscheme semidarkdesert
 :colorscheme zenburn_1
@@ -410,7 +406,6 @@ D
 :git push origin main
 :Q
 :fzf
-:w
 :mkdir snippets
 :touch pydef
 :touch pydef.py
@@ -448,7 +443,6 @@ D
 :touch .xsession
 :pwd
 :touch .xsessionrc
-:q
 :touch perma.txt
 :touch gudfonts.py
 :mkdir animations
@@ -458,39 +452,59 @@ D
 :touch launch.sh
 :chmod +x launch.sh
 :ZZ
+:mkdir picom
 :wq
+:q
+:touch polybar.conf
+:mkdir rofi
+:mkdir themes
+:w
 :touch .gitignore
 
 # Search history (oldest to newest):
+/etc
+/X11
 /pic-1
 /my
 /nv
 /bas
 /vi
 /sp
-/.config
 /my.
 /mysql
 /do
 /xse
 /d
-/bsp
 /x
 /bspw
 /bspw,
-/sx
 /p1
-/des
 /p
 /launc
-/doc
 /polybar
 /bspwm\
-/sxhkd
-/pol
-/bspwm
 /Des
 /REA
+/gitign
+/sx
+/bsp
+/sxhkd
+/xs
+/pic
+/De
+/picom.conf
+/fonts
+/pol
+/.config
+/des
+/Desk
+/Desk'
+/Deskt
+/doc
+/bspwm
+/sxh
+/picom
+/vifm
 
 # Prompt history (oldest to newest):
 pinit.vim
@@ -499,11 +513,14 @@ p.xsessionrc
 pintro.py
 prailsys
 prails
+ppicom.conf
+pconfing
+pconfig
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/linux/.local/share/vifm/Trash/000_mydotfiles
+""/home/linux/.local/share/vifm/Trash/001_picom
 
 # Directory stack (oldest to newest):
 
@@ -742,6 +759,94 @@ t/home/linux/.local/share/vifm/Trash/000_.zshrc
 	/home/linux/Desktop/Files/mydotfiles/.zshrc
 t/home/linux/.local/share/vifm/Trash/000_mydotfiles
 	/home/linux/Desktop/Files/mydotfiles
+t/home/linux/.local/share/vifm/Trash/001_picom.sample.conf
+	/home/linux/.config/picom/picom.sample.conf
+t/home/linux/.local/share/vifm/Trash/000_picom.conf
+	/home/linux/.config/picom/picom.conf
+t/home/linux/.local/share/vifm/Trash/000_build
+	/home/linux/picom/build/build
+t/home/linux/.local/share/vifm/Trash/001_build
+	/home/linux/picom/build
+t/home/linux/.local/share/vifm/Trash/000_wallpapers
+	/home/linux/.config/polybar/wallpapers
+t/home/linux/.local/share/vifm/Trash/000_bars.ini
+	/home/linux/.config/polybar/bars.ini
+t/home/linux/.local/share/vifm/Trash/000_colors.ini
+	/home/linux/.config/polybar/colors.ini
+t/home/linux/.local/share/vifm/Trash/000_config
+	/home/linux/.config/polybar/config
+t/home/linux/.local/share/vifm/Trash/000_config-bottom.ini
+	/home/linux/.config/polybar/config-bottom.ini
+t/home/linux/.local/share/vifm/Trash/000_config-top.ini
+	/home/linux/.config/polybar/config-top.ini
+t/home/linux/.local/share/vifm/Trash/000_modules.ini
+	/home/linux/.config/polybar/modules.ini
+t/home/linux/.local/share/vifm/Trash/000_test-bars.ini
+	/home/linux/.config/polybar/test-bars.ini
+t/home/linux/.local/share/vifm/Trash/000_user_modules.ini
+	/home/linux/.config/polybar/user_modules.ini
+t/home/linux/.local/share/vifm/Trash/000_fonts
+	/home/linux/.config/polybar/fonts
+t/home/linux/.local/share/vifm/Trash/000_panel
+	/home/linux/.config/polybar/panel
+t/home/linux/.local/share/vifm/Trash/000_polybar-10
+	/home/linux/.config/polybar/polybar-10
+t/home/linux/.local/share/vifm/Trash/000_scripts
+	/home/linux/.config/polybar/scripts
+t/home/linux/.local/share/vifm/Trash/000_wallpaper
+	/home/linux/.config/polybar/wallpaper
+t/home/linux/.local/share/vifm/Trash/000_config.ini
+	/home/linux/.config/polybar/config.ini
+t/home/linux/.local/share/vifm/Trash/000_launch.sh
+	/home/linux/.config/polybar/launch.sh
+t/home/linux/.local/share/vifm/Trash/000_config-t1.ini
+	/home/linux/.config/polybar/config-t1.ini
+t/home/linux/.local/share/vifm/Trash/000_config-t2.ini
+	/home/linux/.config/polybar/config-t2.ini
+t/home/linux/.local/share/vifm/Trash/000_config-t3.ini
+	/home/linux/.config/polybar/config-t3.ini
+t/home/linux/.local/share/vifm/Trash/000_config-t4.ini
+	/home/linux/.config/polybar/config-t4.ini
+t/home/linux/.local/share/vifm/Trash/000_config-t5.ini
+	/home/linux/.config/polybar/config-t5.ini
+t/home/linux/.local/share/vifm/Trash/000_config-t6.ini
+	/home/linux/.config/polybar/config-t6.ini
+t/home/linux/.local/share/vifm/Trash/000_apps.ini
+	/home/linux/.config/polybar/apps.ini
+t/home/linux/.local/share/vifm/Trash/000_colors_dark.ini
+	/home/linux/.config/polybar/colors_dark.ini
+t/home/linux/.local/share/vifm/Trash/000_colors_light.ini
+	/home/linux/.config/polybar/colors_light.ini
+t/home/linux/.local/share/vifm/Trash/000_cpu.ini
+	/home/linux/.config/polybar/cpu.ini
+t/home/linux/.local/share/vifm/Trash/000_current.ini
+	/home/linux/.config/polybar/current.ini
+t/home/linux/.local/share/vifm/Trash/000_fs.ini
+	/home/linux/.config/polybar/fs.ini
+t/home/linux/.local/share/vifm/Trash/000_memory.ini
+	/home/linux/.config/polybar/memory.ini
+t/home/linux/.local/share/vifm/Trash/000_mpd.ini
+	/home/linux/.config/polybar/mpd.ini
+t/home/linux/.local/share/vifm/Trash/000_system.ini
+	/home/linux/.config/polybar/system.ini
+t/home/linux/.local/share/vifm/Trash/000_workspace.ini
+	/home/linux/.config/polybar/workspace.ini
+t/home/linux/.local/share/vifm/Trash/004_fonts
+	/home/linux/Desktop/polybar-themes/polybar-9/fonts
+t/home/linux/.local/share/vifm/Trash/004_scripts
+	/home/linux/Desktop/polybar-themes/polybar-9/scripts
+t/home/linux/.local/share/vifm/Trash/004_config.ini
+	/home/linux/Desktop/polybar-themes/polybar-9/config.ini
+t/home/linux/.local/share/vifm/Trash/004_launch.sh
+	/home/linux/Desktop/polybar-themes/polybar-9/launch.sh
+t/home/linux/.local/share/vifm/Trash/000_polybar.conf
+	/home/linux/.config/polybar/polybar.conf
+t/home/linux/.local/share/vifm/Trash/000_confing
+	/home/linux/.config/polybar/confing
+t/home/linux/.local/share/vifm/Trash/000_picom
+	/home/linux/picom
+t/home/linux/.local/share/vifm/Trash/001_picom
+	/home/linux/Public/picom
 
 # State:
 f
