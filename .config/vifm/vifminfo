@@ -30,12 +30,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/linux/Desktop/Files/essentialvenv/windowsvenv
-	Lib
-1
-d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib
-	site-packages
-1
 d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib/site-packages
 	mysqlx
 7
@@ -330,6 +324,12 @@ d/home
 d/home/linux
 	.config
 3
+d/home/linux/.config
+	vifm
+43
+d/home/linux/.config/vifm
+	vifminfo
+7
 d
 
 # Right window history (oldest to newest):
@@ -456,13 +456,13 @@ D
 :mkdir rofi
 :mkdir themes
 :w
-:touch .gitignore
 :pwd
 :cd pwn
 :cd pwd
 :mkdir gui
 :touch form.py
 :mkdir picom
+:touch .gitignore
 
 # Search history (oldest to newest):
 /etc
