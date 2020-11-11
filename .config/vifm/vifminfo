@@ -328,7 +328,7 @@ d/home/linux/.config
 	vifm
 43
 d/home/linux/.config/vifm
-	vifminfo
+	vifmrc
 7
 d
 
@@ -528,7 +528,7 @@ ppicom.conf
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/linux/.local/share/vifm/Trash/003_.gitignore
+""/home/linux/.local/share/vifm/Trash/000_vifminfo
 
 # Directory stack (oldest to newest):
 
@@ -871,6 +871,8 @@ t/home/linux/.local/share/vifm/Trash/002_.gitignore
 	/home/linux/Desktop/Files/essentialvenv/linuxvenv/.gitignore
 t/home/linux/.local/share/vifm/Trash/003_.gitignore
 	/home/linux/.config/vifm/.gitignore
+t/home/linux/.local/share/vifm/Trash/000_vifminfo
+	/home/linux/.config/vifm/vifminfo
 
 # State:
 f
