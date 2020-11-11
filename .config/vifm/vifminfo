@@ -14,9 +14,9 @@
 	core
 1604129300
 'v
-	/home/linux/Desktop/Python-4-Beginners/PythonSpecific
-	fibogen.py
-1603358400
+	/home/linux/.config/picom
+	picom.sample.conf
+1604992429
 
 # Bookmarks:
 
@@ -30,162 +30,99 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/home/linux/.config
-	polybar
-33
-d/home/linux/.config/polybar
-	..
-0
-d/home/linux/.config
-	bspwm
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv
+	Lib
+1
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib
+	site-packages
+1
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib/site-packages
+	mysqlx
 7
-d/home/linux/.config/bspwm
-	bspwmrc
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv/Lib
+	site-packages
 1
-d/home/linux/.config
-	rofi
-37
-d/home/linux/.config/rofi
-	themes
+d/home/linux/Desktop/Files/essentialvenv/windowsvenv
+	Lib
 1
-d/home/linux/.config
-	rofi
-37
-d/home/linux
-	Desktop
-27
-d/home/linux/Desktop
-	polybar-themes
-3
-d/home/linux/Desktop/polybar-themes
-	polybar-10
-12
-d/home/linux/Desktop
-	blue-sky
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
 2
-d/home/linux/Desktop/blue-sky
-	nord.rasi
-15
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	bin
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/bin
+	python3
+16
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	lib
+2
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib
+	python3.9
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib/python3.9
+	site-packages
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib/python3.9/site-packages
+	mysql
+7
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib/python3.9
+	site-packages
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv/lib
+	python3.9
+1
+d/home/linux/Desktop/Files/essentialvenv/linuxvenv
+	lib
+2
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files
+	essentialvenv
+10
+d/home/linux/Desktop/Files/essentialvenv
+	linuxvenv
+2
+d/home/linux/Desktop/Files
+	essentialvenv
+10
 d/home/linux/Desktop
-	blue-sky
-2
+	Files
+1
 d/home/linux
-	.config
-3
-d/home/linux/.config
-	rofi
-37
-d/home/linux/.config/rofi
-	themes
-1
-d/home/linux/.config/rofi/themes
-	nord.rasi
-1
-d/home/linux/.config/rofi
-	themes
-1
-d/home/linux/.config
-	rofi
-37
-d/home/linux/.config/rofi
-	config
-2
-d/home/linux/.config
-	sxhkd
-39
-d/home/linux/.config/sxhkd
-	sxhkdrc
-1
-d/home/linux/.config
-	sxhkd
-38
-d/home/linux
-	Desktop
-27
-d/home/linux/Desktop
-	blue-sky
-2
-d/home/linux
-	.config
-3
-d/home/linux/.config
-	polybar
-33
-d/home/linux/.config/polybar
-	config
-1
-d/home/linux/.config
 	picom
-32
-d/home/linux/.config/picom
-	..
-0
-d/home/linux/.config
-	kdeconnect
 23
-d/home/linux
-	Desktop
-27
-d/home/linux/Desktop
-	blue-sky
+d/home/linux/picom
+	build
+7
+d/home/linux/picom/build
+	meson-info
 2
-d/home/linux/Desktop/blue-sky
-	picom
-6
-d/home/linux/Desktop/blue-sky/picom
-	picom.sample.conf
-32
-d/home/linux/Desktop/blue-sky
-	picom
-6
-d/home/linux/Desktop
-	blue-sky
-2
-d/home/linux
-	.config
+d/home/linux/picom
+	build
+7
+d/home/linux/picom/build
+	meson-logs
 3
-d/home/linux/.config
-	picom
-32
-d/home/linux/.config/picom
+d/home/linux/picom/build/meson-logs
+	meson-log.txt
+1
+d/home/linux/picom/build
+	meson-logs
+3
+d/home/linux/picom
 	picom.sample.conf
-1
-d/home/linux/.config
-	polybar
-33
-d/home/linux/.config/polybar
-	config
-1
-d/home/linux/.config
-	picom
-32
-d/home/linux/.config/picom
-	picom.sample.conf
-1
-d/home/linux/.config
-	picom
-32
-d/home/linux/.config/picom
-	picom.sample.conf
-1
-d/home/linux/.config
-	gnome-session
-17
+31
 d/home/linux
-	.gitconfig
-49
-d/home
-	linux
-1
-d/
-	home
-6
+	picom
+23
 d/home
 	linux
 1
 d/home/linux
-	picom
-36
+	<<<<<<< HEAD
+0
 d/home/linux/picom
 	build
 7
@@ -209,22 +146,31 @@ d/home/linux/.config
 32
 d/home/linux/.config/picom
 	picom.sample.conf
+0
+d/home/linux/Desktop
+	Files
 1
+d/home/linux/Desktop/Files
+	essentialvenv
+10
+d/home/linux/Desktop
+	Files
+0
 d/home/linux/.config
 	picom
 32
 d/home/linux
-	picom
-36
+	<<<<<<< HEAD
+0
 d/home/linux/picom
 	dbus-examples
 8
 d/home/linux
-	.config
-3
+	=======
+0
 d/home/linux/.config
 	picom
-32
+0
 d/home/linux/.config/picom
 	picom.sample.conf
 1
@@ -266,16 +212,22 @@ d/home/linux
 36
 d/home
 	linux
-1
+0
+d/home/linux/.config/picom
+	picom.conf
+0
+d/home/linux/.config
+	picom
+27
 d/home/linux
-	.gitignore
-25
+	<<<<<<< HEAD
+0
 d/home
 	linux
 1
 d/home/linux
-	Public
-13
+	<<<<<<< HEAD
+0
 d/home/linux/Public
 	..
 0
@@ -330,9 +282,60 @@ d/home/linux/Public
 d/home/linux
 	Templates
 14
+d/home/linux/.config
+	picom
+27
+d/home/linux/.config/picom
+	picom.conf
+1
+d/home/linux/.config
+	picom
+27
+d/home/linux/.config/picom
+	picom.conf
+1
+d/home/linux/.config
+	picom
+27
+d/home/linux
+	.config
+3
+d/home
+	linux
+1
+d/home/linux
+	.config
+3
+d/home/linux/.config
+	nitrogen
+29
+d/home/linux/.config/nitrogen
+	..
+0
+d/home/linux/.config
+	vifm
+43
+d/home/linux/.config/vifm
+	out.txt
+4
+d/home/linux/.config
+	vifm
+43
+d/home/linux
+	.config
+3
+d/home
+	linux
+1
+d/home/linux
+	.config
+3
 d
 
 # Right window history (oldest to newest):
+Desktop
+	14
+0
 D/home/linux/.config/nvim/vim-plug
 	..
 0
@@ -360,9 +363,6 @@ D/home/linux
 D
 
 # Command line history (oldest to newest):
-:colorscheme mc-like
-:colorscheme semidarkdesert
-:colorscheme zenburn_1
 :colorscheme matrix
 :colorscheme iceberg
 :colorscheme lucius
@@ -429,7 +429,6 @@ D
 :touch distest.py
 :touch __init__.py
 :touch __main__.py
-:mkdir gui
 :mkdir util
 :touch ytdlgui.py
 :mkdir codewarscpp
@@ -441,7 +440,6 @@ D
 :mkdir sxhkd
 :touch sxhkdrc
 :touch .xsession
-:pwd
 :touch .xsessionrc
 :touch perma.txt
 :touch gudfonts.py
@@ -452,7 +450,6 @@ D
 :touch launch.sh
 :chmod +x launch.sh
 :ZZ
-:mkdir picom
 :wq
 :q
 :touch polybar.conf
@@ -460,6 +457,12 @@ D
 :mkdir themes
 :w
 :touch .gitignore
+:pwd
+:cd pwn
+:cd pwd
+:mkdir gui
+:touch form.py
+:mkdir picom
 
 # Search history (oldest to newest):
 /etc
@@ -483,8 +486,6 @@ D
 /launc
 /polybar
 /bspwm\
-/Des
-/REA
 /gitign
 /sx
 /bsp
@@ -504,23 +505,30 @@ D
 /bspwm
 /sxh
 /picom
+/Des
+/REA
+/.conf
+/giti
+/git
 /vifm
 
 # Prompt history (oldest to newest):
+picom
 pinit.vim
 pwallp.jpg
 p.xsessionrc
 pintro.py
 prailsys
 prails
-ppicom.conf
 pconfing
 pconfig
+pRailwayMgmtSys
+ppicom.conf
 
 # Local filter history (oldest to newest):
 
 # Registers:
-""/home/linux/.local/share/vifm/Trash/001_picom
+""/home/linux/.local/share/vifm/Trash/003_.gitignore
 
 # Directory stack (oldest to newest):
 
@@ -847,6 +855,22 @@ t/home/linux/.local/share/vifm/Trash/000_picom
 	/home/linux/picom
 t/home/linux/.local/share/vifm/Trash/001_picom
 	/home/linux/Public/picom
+t/home/linux/.local/share/vifm/Trash/001_hotelsys
+	/home/linux/Desktop/Files/hotelsys
+t/home/linux/.local/share/vifm/Trash/001_rails
+	/home/linux/Desktop/Files/RailwayMgmtSys/rails
+t/home/linux/.local/share/vifm/Trash/003_.git
+	/home/linux/Desktop/Files/RailwayMgmtSys/.git
+t/home/linux/.local/share/vifm/Trash/000_gui
+	/home/linux/Desktop/Files/RailwayMgmtSys/railsys/gui
+t/home/linux/.local/share/vifm/Trash/001_.gitignore
+	/home/linux/Desktop/Files/RailwayMgmtSys/rails/.gitignore
+t/home/linux/.local/share/vifm/Trash/000_essentialvenv
+	/home/linux/Desktop/Files/essentialvenv
+t/home/linux/.local/share/vifm/Trash/002_.gitignore
+	/home/linux/Desktop/Files/essentialvenv/linuxvenv/.gitignore
+t/home/linux/.local/share/vifm/Trash/003_.gitignore
+	/home/linux/.config/vifm/.gitignore
 
 # State:
 f
