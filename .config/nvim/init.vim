@@ -12,6 +12,9 @@ imap jj <Esc>
 map <Leader>vv :Vifm<CR>
 autocmd FileType python map <buffer> <F9> :w<CR>:exec '!python3.9' shellescape(@%, 1)<CR>
 autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3.9' shellescape(@%, 1)<CR>
+autocmd FileType python map <buffer> <F11> :w<CR>:exec '!python3.8' shellescape(@%, 1)<CR>
+autocmd FileType python imap <buffer> <F11> <esc>:w<CR>:exec '!python3.8' shellescape(@%, 1)<CR>
+
 
 " Remove newbie crutches in Command Mode
 cnoremap <Down> <Nop>
@@ -174,6 +177,14 @@ let g:mkdp_port = ''
 " ${name} will be replace with the file name
 let g:mkdp_page_title = '「${name}」'
 
+
+" Trigger a highlight in the appropriate direction when pressing these keys:
+let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
+
 "Carbon Hotkey mapped to F5
 vnoremap <F5> :CarbonNowSh<CR>
+
+
+
+
 

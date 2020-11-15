@@ -53,6 +53,7 @@ Videos
 .viminfo
 .vimrc
 _vimrc
+.netrc
 vimwiki
 .wget-hsts
 .wine
