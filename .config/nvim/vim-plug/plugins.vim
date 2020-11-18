@@ -47,4 +47,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'tpope/vim-commentary'
     "devicons for vifm
     Plug 'ryanoasis/vim-devicons'
+    "Vim Document Generator
+    Plug 'kkoomen/vim-doge', { 'do': { -> doge#install() } } 
 call plug#end()
