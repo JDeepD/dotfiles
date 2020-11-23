@@ -55,6 +55,9 @@ vnoremap P "*p
 vnoremap y "+y
 vnoremap p "+p
 
+" YY will copy everything in the file to system buffer
+nnoremap YY gg"+yG
+
 "OneDark Theme
 "source $HOME/.config/nvim/themes/onedark.vim
 
@@ -79,11 +82,16 @@ autocmd vimenter * colorscheme gruvbox
 nnoremap <C-c> :!g++ -o  %:r.out % -std=c++11<Enter>
 nnoremap <C-x> :!./%:r.out
 autocmd filetype cpp nnoremap <f5> :w <bar> !g++ -std=c++11 -O2 -Wall % -o %:r && %:r.exe <cr>
+autocmd Filetype cpp setlocal tabstop=3
+
+
 "Snippets
 nnoremap ,def :-1read /home/linux/.config/nvim/snippets/pydef.py<CR>jwea
 nnoremap ,cpp :-1read /home/linux/.config/nvim/snippets/cpp.cpp<CR>
 nnoremap ,cls :-1read /home/linux/.config/nvim/snippets/cls.py<CR>
 nnoremap ,gtl ihttps://github.com/repo-owner/repo-name
+
+
 
 "Rainbow Parenthesis
 let g:rainbow_active = 1
@@ -181,10 +189,8 @@ let g:mkdp_page_title = '「${name}」'
 " Trigger a highlight in the appropriate direction when pressing these keys:
 let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
 
+let g:doge_doc_standard_python = 'numpy'
+
 "Carbon Hotkey mapped to F5
 vnoremap <F5> :CarbonNowSh<CR>
-
-
-
-
 
