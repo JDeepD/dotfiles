@@ -49,4 +49,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'ryanoasis/vim-devicons'
     "Vim Document Generator
     Plug 'kkoomen/vim-doge', { 'do': { -> doge#install() } } 
+    " vim easymotion
+    Plug 'easymotion/vim-easymotion'
+
 call plug#end()

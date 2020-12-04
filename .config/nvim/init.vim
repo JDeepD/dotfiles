@@ -7,6 +7,9 @@ filetype plugin on
 " turn hybrid line numbers on
 set number relativenumber
 set nu rnu
+ " maps the leader key to <Space>
+let mapleader = " "
+
 syntax on
 imap jj <Esc>
 map <Leader>vv :Vifm<CR>

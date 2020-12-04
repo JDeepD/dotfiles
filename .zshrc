@@ -1,3 +1,5 @@
+source ~/.zplug/init.zsh
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -15,7 +17,7 @@ export ZSH="/home/linux/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="powerlevel10k/powerlevel10k"
-#ZSH_THEME="robbyrussell"
+# ZSH_THEME="robbyrussell"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -110,7 +112,6 @@ alias python="python3.9"
 alias nvcf="nvim ~/.config/nvim/init.vim"
 alias plcf="nvim ~/.config/nvim/vim-plug/plugins.vim"
 alias home="cd /home/linux/Desktop/Files"
-alias r="ranger"
 alias v="vifm"
 alias vc="vicd"
 alias marialogin="mariadb -u jdeep -p"
@@ -194,3 +195,7 @@ source /home/linux/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+
+zplug "b4b4r07/enhancd"
+
