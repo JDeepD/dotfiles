@@ -1,3 +1,6 @@
 [submodule ".zplug"]
 	path = .zplug
 	url = https://github.com/zplug/zplug
+[submodule ".config/nvim/autoload/vplugged/Vundle.vim"]
+	path = .config/nvim/autoload/vplugged/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim

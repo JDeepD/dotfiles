@@ -1,7 +1,7 @@
 source $HOME/.config/nvim/vim-plug/plugins.vim
+source $HOME/.config/nvim/vundle-plug/plugins.vim
 source $HOME/.config/nvim/func.vim
 set nu
-filetype on
 set nocompatible
 filetype plugin on
 " turn hybrid line numbers on

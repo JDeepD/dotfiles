@@ -51,5 +51,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'kkoomen/vim-doge', { 'do': { -> doge#install() } } 
     " vim easymotion
     Plug 'easymotion/vim-easymotion'
+    " Ghost text plugin for neovim
+    Plug 'subnut/nvim-ghost.nvim', {'do': ':call nvim_ghost#installer#install()'}
+
 
 call plug#end()
