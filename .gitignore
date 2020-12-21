@@ -1,5 +1,6 @@
 .gitconfig
 .vscode/
+.npm
 .config/vifm/vifminfo
 anaconda3
 .bash_history

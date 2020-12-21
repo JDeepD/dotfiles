@@ -1,6 +1,8 @@
 source $HOME/.config/nvim/vim-plug/plugins.vim
 source $HOME/.config/nvim/vundle-plug/plugins.vim
 source $HOME/.config/nvim/func.vim
+" disable ycm
+let g:loaded_youcompleteme = 1
 set nu
 set nocompatible
 filetype plugin on
@@ -193,6 +195,14 @@ let g:mkdp_page_title = '「${name}」'
 let g:qs_highlight_on_keys = ['f', 'F', 't', 'T']
 
 let g:doge_doc_standard_python = 'numpy'
+
+" prittier code fmter
+" ------
+" let g:ale_fix_on_save = 1
+" let g:ale_fixers = {
+" \   'javascript': ['prettier', 'eslint'],
+" \   'typescript': ['prettier', 'eslint'],
+" \}
 
 "Carbon Hotkey mapped to F5
 vnoremap <F5> :CarbonNowSh<CR>

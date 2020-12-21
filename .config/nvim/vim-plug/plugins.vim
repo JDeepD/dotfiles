@@ -53,6 +53,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'easymotion/vim-easymotion'
     " Ghost text plugin for neovim
     Plug 'subnut/nvim-ghost.nvim', {'do': ':call nvim_ghost#installer#install()'}
-
+    " Prettier code formatter
+    " Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
+    Plug 'dstein64/vim-startuptime'
 
 call plug#end()
